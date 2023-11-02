@@ -11,9 +11,9 @@
     --main-color: #34aec4;
     --main-text-color: #FFF;
     --border-color: #999;
-    --bio-bg-color: #0b133f;
-    --bio-border-color: #0a305f;
-    --about-bg-color: #021227;
+    --bio-bg-color: #02083d;
+    --bio-border-color: #068091;
+    --about-bg-color: #030a25;
 }
 
 /* General */
@@ -188,6 +188,16 @@
 
 .skills-box i {
     font-size: 45px;
+    margin-right: 10px;
+}
+
+#jsf {
+    width: 95px;
+    margin-right: 10px;
+}
+
+.skills-box img {
+    width: 48px;
     margin-right: 10px;
 }
 
